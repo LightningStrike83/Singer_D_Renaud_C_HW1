@@ -7,6 +7,9 @@ Dan- I am from Lindsay, Ontario. My hobbies include video games, collecting trad
 
 Charlie- I am from London, Ontario. Born and raised. My hobbies include video games, model trains, comic books, movies, writing. Some of my favourite movies include Pulp Fiction, Toy Story, Sam Raimi's Spider-Man trilogy, almost every Star Wars movie, and the first three Inidana Jones movies we don't talk about Kingdom of the Crystal Skull. 
 
+
+![Mario riding a green Yoshi](Mario_and_Yoshi.jpeg "Mario Sunshine") 
+
 ## Usage
 
 TODO: Write usage instructions
