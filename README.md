@@ -1,3 +1,5 @@
+![Logo](bears.jpg "Mr. Extravagant and Lightning Fusion"))
+
 # Homework 1 for Team Extravagant Lightning
 
 TODO:
