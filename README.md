@@ -3,6 +3,8 @@
 TODO:
 Dan- I am from Lindsay, Ontario. My hobbies include video games, collecting trading cards, dressing up in cosplay, and shopping, especially for collectibles. My favourite video game series is Pokemon, my favourite movie is Detective Pikachu, and my favourite anime series is Koisuru Asteroid/Asteroid in Love. 
 
+![Koisuru Asteroid](koisuru-asteroid.jpeg "Mira and Ao")
+
 Charlie- I am from London, Ontario. Born and raised. My hobbies include video games, model trains, comic books, movies, writing. Some of my favourite movies include Pulp Fiction, Toy Story, Sam Raimi's Spider-Man trilogy, almost every Star Wars movie, and the first three Inidana Jones movies we don't talk about Kingdom of the Crystal Skull. 
 
 ## Usage
