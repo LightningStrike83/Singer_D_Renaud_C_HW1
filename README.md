@@ -20,7 +20,8 @@ TODO: Write usage instructions
 
 ## Credits
 
-TODO: Write credits
+Dan Singer (Lightning)
+Charlie Renaud (Mr Extravagent)
 
 ## License
 
