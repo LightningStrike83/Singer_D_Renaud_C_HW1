@@ -5,10 +5,6 @@ Dan- I am from Lindsay, Ontario. My hobbies include video games, collecting trad
 
 Charlie- I am from London, Ontario. Born and raised. My hobbies include video games, model trains, comic books, movies, writing. Some of my favourite movies include Pulp Fiction, Toy Story, Sam Raimi's Spider-Man trilogy, almost every Star Wars movie, and the first three Inidana Jones movies we don't talk about Kingdom of the Crystal Skull. 
 
-## Installation
-
-TODO: Describe the installation process
-
 ## Usage
 
 TODO: Write usage instructions
@@ -21,9 +17,6 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
 
 ## Credits
 
@@ -31,4 +24,4 @@ TODO: Write credits
 
 ## License
 
-TODO: Write license
+MIT
