@@ -12,10 +12,6 @@ Charlie- I am from London, Ontario. Born and raised. My hobbies include video ga
 
 ![Mario riding a green Yoshi](Mario_and_Yoshi.jpeg "Mario Sunshine") 
 
-## Usage
-
-TODO: Write usage instructions
-
 ## Contributing
 
 1. Fork it!
@@ -28,6 +24,7 @@ TODO: Write usage instructions
 ## Credits
 
 Dan Singer (Lightning)
+
 Charlie Renaud (Mr Extravagent)
 
 ## License
